@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Connor A.K.A @gawlster
-- 👀 I have a passion for web development and software engineering!
-- 🧠 I love learning new things and using that knowledge to build awesome experiences on the web!
-- 💻 I am currently working as a Full Stack Software Developer at Giftbit.
+- 👀 I have a passion for software development!
+- 🧠 I love learning new things and using that knowledge to build awesome experiences using technology!
+- 💻 I am currently in my final year as a computer science student at the University of Victoria.
 - 📫 Reach out:
   - By email at connorgawley@uvic.ca
   - By filling out the form at the bottom of <a href='https://gawlster.github.io/portfolio' target='_blank'>my portfolio</a>
