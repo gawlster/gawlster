@@ -2,7 +2,7 @@
 - 👀 I have a passion for software development!
 - 🧠 I love learning new things and using that knowledge to build awesome experiences using technology!
 - 💻 I am currently in my final year as a computer science student at the University of Victoria.
-- 📫 Reach out by email @ <a href="mailto:connorgawley@gmail.com" target="_blank">connorgawley@gmail.com</a>
+- 📫 Reach out by email @ <a href="mailto:me@connorgawley.ca" target="_blank">me@connorgawley.ca</a>
 
 <!---
 gawlster/gawlster is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
