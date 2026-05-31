@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Connor A.K.A @gawlster
 - 👀 I have a passion for software development!
 - 🧠 I love learning new things and using that knowledge to build awesome experiences using technology!
-- 💻 I am currently in my final year as a computer science student at the University of Victoria.
+- 💻 I'm currently building cool things at Nova. (Alumni @ University of Victoria)
 - 📫 Reach out by email @ <a href="mailto:me@connorgawley.ca" target="_blank">me@connorgawley.ca</a>
 
 <!---
